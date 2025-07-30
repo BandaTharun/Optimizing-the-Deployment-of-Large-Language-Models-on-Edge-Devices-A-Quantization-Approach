@@ -61,7 +61,7 @@ This work demonstrates the **practical feasibility** of running sophisticated la
 
 ## 📄 Full Documentation
 
-Complete research methodology, results, and analysis available in: `docs/research_paper.pdf`
+Complete research methodology, results, and analysis available in: `Optimizing_the_Deployment_of_Large_Language_Models_on_Edge.pdf`
 
 ---
 
