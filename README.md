@@ -1,7 +1,7 @@
 # Optimizing-the-Deployment-of-Large-Language-Models-on-Edge-Devices-A-Quantization-Approach
 
 
-# Optimizing LLM Deployment on Edge Devices
+
 
 ![Research](https://img.shields.io/badge/Research-LLM%20Edge%20Computing-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Status](https://img.shields.io/badge/Status-Complete-success)
 
