@@ -1,0 +1,21 @@
+-------------------new---------------------
+
+
++++++++++*****++++++
+
+
+local instance: macbook pro :
+
+ llamafile  Response time and resource of ram,memory usage for prompts = 1, iteration = 10 
+Prompt: ['What is the capital of Italy?']
+ Average Response Time (seconds): 18.56928746700287
+ Average CPU Usage (%): 40.839999999999996
+ Average Memory Usage (%): 97.97
+
++++++++++
+
+ llamafile  Response time and resource of ram,memory usage for prompts = 3, iteration = 10 
+Prompt: [' What are the main causes of climate change?', 'What is the largest ocean on Earth?', 'Can you describe the taste of chocolate?']
+ Average Response Time (seconds): 36.068127036094666
+ Average CPU Usage (%): 31.14666666666666
+ Average Memory Usage (%): 97.97000000000001
